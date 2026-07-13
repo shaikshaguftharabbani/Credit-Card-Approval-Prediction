@@ -1,5 +1,7 @@
 # Credit-Card-Approval-Prediction
 
+AI-ML-and-GEN-AI-Track-Project-Template
+
 Repository Structure
 
 1.Brainstorming & Ideation
@@ -17,5 +19,3 @@ Repository Structure
 7.Project Documentation
 
 8.Project Demonstration
-
-Replace the placeholder files with your team's project deliverables.
